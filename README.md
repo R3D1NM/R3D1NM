@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&section=header&text=Welcome&fontSize=50&animation=blink&customColorList=0&color=gradient" align="center"/>
 
-### This is Shin Hyejoon (R3D1NM/R1) <img src="https://github-readme-stats.vercel.app/api?username=R3D1NM&hide=contribs,issues&show=reviews&show_icons=true&theme=transparent" align="right"/>
+### This is Shin Hyejoon (R3D1NM/R1NM) <img src="https://github-readme-stats.vercel.app/api?username=R3D1NM&hide=contribs,issues&show=reviews&show_icons=true&theme=transparent" align="right"/>
 - Learning at Ewha Womans University
 - Majoring Cyber Secuirty
 - BoB 12th Digital Forensics
