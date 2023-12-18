@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&section=header&text=Welcome&fontSize=50&animation=blink&customColorList=0&color=gradient" align="center"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&section=header&text=Welcome!&fontSize=55&animation=blink&customColorList=0&color=gradient" align="center"/>
 
 ### Shin Hyejoon (R3D1NM/R1NM) <img src="https://github-readme-stats.vercel.app/api?username=R3D1NM&hide=contribs,issues&show=reviews&show_icons=true&theme=transparent" align="right"/>
 - Learning at Ewha Womans University
@@ -6,22 +6,12 @@
 - BoB 12th Digital Forensics
 - Also having fun with programming & development!
 
-<!--
-**R3D1NM/R3D1NM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Recent Project
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=icheaccount&repo=ossistant)
 
-Here are some ideas to get you started:
+### Languages 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R3D1NM&langs_count=10&layout=compact&theme=transparent" align="right" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-### Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -59,6 +49,8 @@ Here are some ideas to get you started:
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 ### Interests
+🔐 Digital Forensics, OSINT, CTI, Block chain, Web hacking, ... <br/>
+🛠️ Web programming, Machine Learning, Dapp programming, ... <br/>
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
