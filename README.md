@@ -10,7 +10,8 @@
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=icheaccount&repo=ossistant)
 
 ### Languages 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R3D1NM&langs_count=10&layout=compact&theme=transparent" align="right" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R3D1NM&langs_count=10&layout=compact&theme=dracula" align="right" />
+
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
