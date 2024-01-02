@@ -6,8 +6,13 @@
 - BoB 12th Digital Forensics
 - Also having fun with programming & development!
 
-### Recent Project
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=icheaccount&repo=ossistant)
+### Recent Project 
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=icheaccount&repo=ossistant" align="right"/>
+
+- Team Project supported by [BoB](https://www.kitribob.kr/)
+- A web-based OSINT tool for cyber profiling
+- Chrome Extension & Web Dashboard with visualization
+- Participated as a front-end engineer (React)
 
 ### Languages 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R3D1NM&langs_count=10&layout=compact&theme=dracula" align="right" />
