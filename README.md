@@ -6,8 +6,9 @@
 - BoB 12th Digital Forensics
 - Also having fun with programming & development!
 
-### Recent Project 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=icheaccount&repo=ossistant" align="right"/>
+### Recent Project
+<a href="https://github.com/ICHEaccount/Ossistant" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=icheaccount&repo=ossistant" align="right"/><a/>
+
 
 - Team Project supported by [BoB](https://www.kitribob.kr/)
 - A web-based OSINT tool for cyber profiling
