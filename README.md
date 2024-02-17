@@ -1,12 +1,11 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&section=header&text=Welcome!&fontSize=55&animation=blink&customColorList=0&color=gradient" align="center"/>
 
 ### Shin Hyejoon (R3D1NM/R1NM) <img src="https://github-readme-stats.vercel.app/api?username=R3D1NM&hide=contribs,issues&show=reviews&show_icons=true&theme=transparent" align="right"/>
-- Learning at Ewha Womans University
-- Majoring Cyber Secuirty
-- BoB 12th Digital Forensics
+- Ewha Womans University Cyber Security
+- [BoB](https://www.kitribob.kr/) 12th Digital Forensics
 - Also having fun with programming & development!
 
-### Recent Project
+### Recent Project :arrow_right:
 <a href="https://github.com/ICHEaccount/Ossistant" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=icheaccount&repo=ossistant" align="right"/><a/>
 
 
@@ -23,8 +22,6 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
@@ -47,7 +44,7 @@
 ![NestJs](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
@@ -64,8 +61,8 @@
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 
 ### Interests
-🔐 Digital Forensics, OSINT, CTI, Block chain, Web hacking, ... <br/>
-🛠️ Web programming, Machine Learning, Dapp programming, ... <br/>
+:closed_lock_with_key: Digital Forensics, OSINT, CTI, Block chain, Web hacking, ... <br/>
+:gear: Web programming, Machine Learning, Dapp programming, ... <br/>
 
 ### Blog
 [![Velog](https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white")](https://velog.io/@rinm)
