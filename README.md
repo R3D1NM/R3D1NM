@@ -3,13 +3,14 @@
 ### Shin Hyejoon (R3D1NM/R1NM) <img src="https://github-readme-stats.vercel.app/api?username=R3D1NM&hide=contribs,issues&show=reviews&show_icons=true&theme=transparent" align="right"/>
 - Ewha Womans University Cyber Security
 - [BoB](https://www.kitribob.kr/) 12th Digital Forensics
+- [Software Maestro](https://swmaestro.org/) 15th
 - Also having fun with programming & development!
 
 ### Recent Project :arrow_right:
 <a href="https://github.com/ICHEaccount/Ossistant" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=icheaccount&repo=ossistant" align="right"/><a/>
 
 
-- Team Project supported by [BoB](https://www.kitribob.kr/)
+- Team Project supported by [BoB](https://www.kitribob.kr/), KITRI
 - A web-based OSINT tool for cyber profiling
 - Chrome Extension & Web Dashboard with visualization
 - Participated as a front-end engineer (React)
@@ -51,10 +52,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -64,5 +61,4 @@
 :closed_lock_with_key: Digital Forensics, OSINT, CTI, Block chain, Web hacking, ... <br/>
 :gear: Web programming, Machine Learning, Dapp programming, ... <br/>
 
-### Blog
-[![Velog](https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white")](https://velog.io/@rinm)
+### Blog [![Velog](https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white")](https://velog.io/@rinm)
